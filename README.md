@@ -1,7 +1,7 @@
 # Arduino-Button-Example
 
 ## Contextualization
-I connected a button with LED and this example no need any code only eletrical connection
+In this experiment, an LED will be turned on by pressing a button. Please note that no ports will be used and no code will be written.
 
 ## Components:
 - 1 - Arduino Uno R3
